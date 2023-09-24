@@ -4,6 +4,27 @@ This guide serves as a resource for actuaries looking to obtain P&C insurance do
 
 # Lines of Business
 
+## Aviation
+
 ## Marine
 
 - Flitner: Ocean Marine Insurance
+- Flitner, Gambeski: Inland Marine Insurance
+
+## Property
+
+## Surety
+
+# Insurance Operations
+
+## Claims Handling
+
+## Reinsurance
+
+- Strain: Reinsurance
+
+# Insurance History
+
+- Bernstein: Against the Gods
+- James: Biography of a Business
+
